@@ -1,0 +1,38 @@
+
+*{
+    /* padding: 0px 4px; */
+    background-color: #ca62a2;
+}
+#form{
+   
+    display: flex;
+    justify-content: center;
+    font-family:Regular;
+    /* border-radius: 5px; */
+    font-size: large;
+}
+button{
+    background-color: rgb(0, 94, 255);
+}
+button:hover{
+    color: #7CBBFF;
+}
+input{
+    /* padding: 3px; */
+    margin: 8px;
+    text-align: center;
+    background-color: azure;
+    /* color: black; */
+    border: none;
+}
+.input-1{
+    background-color: azure;
+}
+
+ a{
+    color: brown;
+    text-decoration: double;
+}
+a:hover{
+    color: aquamarine;
+}
